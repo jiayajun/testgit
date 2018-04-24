@@ -14,3 +14,4 @@
 dev updata 01
 dev update 02
 test delete 03
+delete test 03
